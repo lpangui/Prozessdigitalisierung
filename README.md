@@ -1,3 +1,5 @@
+# Prozessdigitalisierung - Krankmeldungen & Urlaubsanträge
+
 ## Projektbeschreibung
 
 Im Rahmen einer Lehrveranstaltung wurde eine Webanwendung zur Digitalisierung von Personalprozessen entwickelt. Ziel des Projekts war die elektronische Verwaltung von **Krankmeldungen** und **Urlaubsanträgen**, um papierbasierte Abläufe zu ersetzen und administrative Prozesse effizienter zu gestalten.
