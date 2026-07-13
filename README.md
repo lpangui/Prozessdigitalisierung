@@ -29,23 +29,12 @@ Die Anwendung folgt dem MVC-Paradigma:
 
 ## Technologien
 
-- **Java** – Geschäftslogik
-- **JSP (JavaServer Pages)** – Dynamische Weboberfläche
-- **HTML & CSS** – Struktur und Gestaltung
-- **JavaScript** – Interaktive Funktionen
-- **SQL** – Datenbankabfragen
-- **PostgreSQL** – Relationale Datenbank
-
-## Screenshots
-
-Zur Dokumentation können beispielsweise folgende Screenshots ergänzt werden:
-
-- Startseite der Anwendung
-- Formular für Krankmeldungen
-- Formular für Urlaubsanträge
-- Übersicht aller Anträge
-- Benutzer- bzw. Administrationsansicht
-- Datenbankschema oder MVC-Projektstruktur
+- **Java** - Geschäftslogik
+- **JSP (JavaServer Pages)** - Dynamische Weboberfläche
+- **HTML & CSS** - Struktur und Gestaltung
+- **JavaScript** - Interaktive Funktionen
+- **SQL** - Datenbankabfragen
+- **PostgreSQL** - Relationale Datenbank
 
 ## Lernergebnisse
 
